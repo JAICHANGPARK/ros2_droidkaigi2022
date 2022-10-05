@@ -1,6 +1,6 @@
 # ros2_droidkaigi2022
  
-- FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話
+- [FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話](https://droidkaigi.jp/2022/timetable/358555)
 
 ## How to build package
 
